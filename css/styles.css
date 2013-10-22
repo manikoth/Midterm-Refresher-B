@@ -1,1 +1,28 @@
 /* Stylesheet */
+body {
+	background: #000;
+}
+
+header {
+	background: #0FF;
+}
+
+nav {
+	background: #99C;
+}
+
+blockquote {
+	background: #3C3;
+}
+
+footer {
+	background: red;
+}
+
+section {
+	background: #639;
+}
+
+.container_12 {
+	background: #FFF;
+}
