@@ -34,3 +34,7 @@ section {
 .container_12 {
 	background: #FFF;
 }
+
+.showgrid {
+	background: url("../img/12-col-grid.gif") !important;
+}
